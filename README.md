@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, titled "DBank," is a basic banking application built to familiarize myself with Motoko and the Internet Computer. Motoko is a programming language designed specifically for the Internet Computer, a blockchain-based platform that aims to expand the functionality of the internet. The application allows users to top up, withdraw, and view their balance, implementing simple interest compounding over time.
+This project, titled "DBank," is a basic banking application built to familiarize myself with Motoko and the Internet Computer. Motoko is a programming language designed specifically for the Internet Computer, a blockchain-based platform that aims to expand the functionality of the internet. The application allows users to top up, withdraw, and view their balance, implementing simple interest compounding over time. (Screenshot to come)
 
 ![DBank](./src/dbank_assets/assets/dbank_logo.png)
 
